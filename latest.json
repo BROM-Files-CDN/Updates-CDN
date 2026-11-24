@@ -1,0 +1,6 @@
+{
+  "latest_version": "1.5",
+  "download_url": "https://github.com/YourUsername/BROM-OTA-Database/releases/download/v1.5/BROM_Update_v1.5.zip",
+  "changelog": "Fixed bugs and improved performance.",
+  "requires_format_data": false
+}
